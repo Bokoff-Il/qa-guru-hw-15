@@ -27,7 +27,5 @@ public class WebTests {
 
     open("https://github.com");
     $(".h1-mktg").shouldHave(text(" Where the world builds software "));
-
   }
-
 }
